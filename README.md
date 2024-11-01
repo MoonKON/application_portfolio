@@ -6,8 +6,8 @@ Here, you will find three main components showcasing my work:
 ## 1. Ludum Dare 72h Game Jam final submission: **"Taste Tour"** 🍞
 
 - **Description:** "Taste Tour" is a 2D platformer game created during the Ludum Dare 72-hour Game Jam.
-- **Link:** For a detailed description and gameplay, please visit the Ludum Dare website (https://ldjam.com/events/ludum-dare/56/taste-tour-a-wonderful-adventures-of-a-tiny-little-toast)
-- **Attachments:** I attached the source code and game zip file in this portfolio.
+- **Link:** For a detailed description and gameplay, please visit the Ludum Dare website (https://ldjam.com/events/ludum-dare/56/taste-tour-a-wonderful-adventures-of-a-tiny-little-toast). You can download the zip file of the game on this website.
+- **Attachments:** I attached the source code in this portfolio.
 - 
 ## 2. Research Project in Virtual Imaging Trials (CVIT) Lab, Duke University 🌐
 
