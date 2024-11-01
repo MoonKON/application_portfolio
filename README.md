@@ -1,4 +1,4 @@
-# application_portfolio
+# Application_portfolio
 Welcome to view my portfolio!
 
 Here, you will find two main components showcasing my work:
